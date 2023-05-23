@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ridas",
+  "info": {
+    "singularName": "rida",
+    "pluralName": "ridas",
+    "displayName": "rida"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
